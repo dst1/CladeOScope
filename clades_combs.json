@@ -1,0 +1,13 @@
+{
+"COMB1": ["Eukaryota", "Mammalia", "Archelosauria", "Ecdysozoa", "Platyhelminthes","Alveolata", "Stramenopiles", "Fungi", "Viridiplantae"],
+"COMB2": ["Eukaryota", "Vertebrata", "Ecdysozoa", "Platyhelminthes", "Alveolata", "Stramenopiles", "Fungi", "Viridiplantae"],
+"COMB3": ["Eukaryota", "Chordata", "Ecdysozoa", "Platyhelminthes", "Alveolata", "Stramenopiles", "Fungi", "Viridiplantae"],
+"COMB4": ["Eukaryota", "Mammalia", "Archelosauria", "Nematoda","Arthropoda", "Platyhelminthes", 
+          "Alveolata", "Stramenopiles", 
+          "Fungi_Incertae_Sedis","Ascomycota","Basidiomycota", 
+          "Liliopsida", "Eudicotyledons"],
+"COMB5": ["Eukaryota", "Chordata", "Mammalia", "Archelosauria", "Ecdysozoa","Nematoda","Arthropoda", "Platyhelminthes", 
+          "Alveolata", "Stramenopiles", 
+          "Fungi","Fungi_Incertae_Sedis","Ascomycota","Basidiomycota", 
+          "Viridiplantae", "Liliopsida", "Eudicotyledons"]
+}

@@ -1,0 +1,26 @@
+{
+    "CladeOScope": {
+        "method": "CladeOScope",
+        "fname": "CladeOScope.pkl",
+        "name": "CladeOScope",
+        "kwargs": {
+            "calc": "min_rank",
+            "combination": "COMB5"
+        }
+    },
+    "BPP": {
+        "method": "BPP",
+        "fname": "BPP_hamming_Eval.pkl",
+        "name": "BPP hamming (Eval)"
+    },
+    "PPP": {
+        "method": "PPP",
+        "fname": "PPP_dist.pkl",
+        "name": "PPP"
+    },
+    "NPP_cors": {
+        "method": "NPP_cors",
+        "fname": "NPP_cors.pkl",
+        "name": "NPP"
+    }
+}
