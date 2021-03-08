@@ -6,7 +6,7 @@ Paper: [TBD](TBD) | Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.44
 
 Code for reproducing the method described in:
 
-**Eukaryotic co-evolution signals are scattered across clades.**
+**CladeOScope: elucidating functional interactions via a clade co-evolution prism**
 
 Tomer Tsaban†, Doron Stupp†, Dana Sherill-Rofe, Idit Bloch, Elad Sharon, Ora Schueler-Furman, Reuven Wiener and Yuval Tabach*
 
