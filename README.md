@@ -1,6 +1,6 @@
 # CladeOScope
 
-Paper: [TBD](TBD) | Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4464120.svg)](https://doi.org/10.5281/zenodo.4464120) | Code: [Github Repo](https://github.com/dst1/CladeOScope)
+Paper: [![DOI:10.1093/nargab/lqab024](https://img.shields.io/badge/DOI-https%3A%2F%2Fdoi.org%2F10.1093%2Fnargab%2Flqab024-blue)](https://doi.org/10.1093/nargab/lqab024)  |  Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4464120.svg)](https://doi.org/10.5281/zenodo.4464120)  |  Code: [Github Repo](https://github.com/dst1/CladeOScope)
 
 ----------------
 
@@ -12,11 +12,23 @@ Tomer Tsaban†, Doron Stupp†, Dana Sherill-Rofe, Idit Bloch, Elad Sharon, Ora
 
 †. These authors contributed equally 
 
-*. To whom correspondence should be addressed. YuvalTab@ekmd.huji.ac.il
+\*. To whom correspondence should be addressed. YuvalTab@ekmd.huji.ac.il
+Published in NAR Genomics and Bioinformatics, Apr. 2021
 
 Citation:
 ```{bibtex}
-will be added after publication
+@article{Tsaban_2021,
+	doi = {10.1093/nargab/lqab024},
+	url = {https://doi.org/10.1093%2Fnargab%2Flqab024},
+	year = 2021,
+	month = {apr},
+	publisher = {Oxford University Press ({OUP})},
+	volume = {3},
+	number = {2},
+	author = {Tomer Tsaban and Doron Stupp and Dana Sherill-Rofe and Idit Bloch and Elad Sharon and Ora Schueler-Furman and Reuven Wiener and Yuval Tabach},
+	title = {{CladeOScope}: functional interactions through the prism of clade-wise co-evolution},
+	journal = {{NAR} Genomics and Bioinformatics}
+} 
 ```
 
 ----------------
