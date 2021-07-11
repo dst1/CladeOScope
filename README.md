@@ -6,16 +6,15 @@ Paper: [![DOI:10.1093/nargab/lqab024](https://img.shields.io/badge/DOI-https%3A%
 
 Code for reproducing the method described in:
 
-**CladeOScope: elucidating functional interactions via a clade co-evolution prism**
-
+### **CladeOScope: elucidating functional interactions via a clade co-evolution prism**    
 Tomer Tsaban†, Doron Stupp†, Dana Sherill-Rofe, Idit Bloch, Elad Sharon, Ora Schueler-Furman, Reuven Wiener and Yuval Tabach*
 
-†. These authors contributed equally 
-
+†. These authors contributed equally     
 \*. To whom correspondence should be addressed. YuvalTab@ekmd.huji.ac.il
+
 Published in NAR Genomics and Bioinformatics, Apr. 2021
 
-Citation:
+**Citation:**
 ```{bibtex}
 @article{Tsaban_2021,
 	doi = {10.1093/nargab/lqab024},
@@ -135,5 +134,16 @@ Please make sure to cite when using the method:
 ```
 - When using the CladeOScope method please cite 
 ```{bibtex}
-will be added after publication
+@article{Tsaban_2021,
+	doi = {10.1093/nargab/lqab024},
+	url = {https://doi.org/10.1093%2Fnargab%2Flqab024},
+	year = 2021,
+	month = {apr},
+	publisher = {Oxford University Press ({OUP})},
+	volume = {3},
+	number = {2},
+	author = {Tomer Tsaban and Doron Stupp and Dana Sherill-Rofe and Idit Bloch and Elad Sharon and Ora Schueler-Furman and Reuven Wiener and Yuval Tabach},
+	title = {{CladeOScope}: functional interactions through the prism of clade-wise co-evolution},
+	journal = {{NAR} Genomics and Bioinformatics}
+} 
 ```
